@@ -1,2 +1,4 @@
 server:
   port: 8088
+mongo:
+  loc: mongodb://localhost:27017

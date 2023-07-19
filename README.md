@@ -2,7 +2,7 @@
 
 go get go.mongodb.org/mongo-driver/mongo
 go get github.com/gin-gonic/gin
-
+go get github.com/go-playground/validator/v10
 github.com/spf13/viper
 
 ### 編寫model模塊
